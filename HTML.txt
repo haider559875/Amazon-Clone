@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+    <title>Amazon</title>
+</head>
+<body>
+    <header>
+        <div class="navbar">
+            <div class="nav-logo border">
+                <a href=""><div class="logo"></div></a>
+            </div>
+
+            <a href=""><div class="nav-address border">
+                <p class="add-first">Deliver to</p>
+                <div class="add-icon">
+                    <i class="fa-solid fa-location-dot"></i>
+                    <p class="add-sec">Pakistan</p>
+                </div>
+            </div></a>
+            <div class="nav-search">
+                <select class="search-select">
+                    <option>All</option>
+                </select>
+                <input type="text" class="search-input" placeholder="Search Amazon">
+                <div class="search-icon">
+                    <a href=""><i class="fa-solid fa-magnifying-glass"></i></a>
+                </div>
+            </div>
+            <div class="nav-signin border">
+                <a href=""><p><span>Hello,sign in</span></p></a>
+                <a href=""><p class="nav-second">Account & Lists</p></a>
+            </div>
+            <div class="nav-return border">
+                <a href=""><p><span>Returns</span></p></a>
+                <a href=""><p class="nav-second">& Orders</p></a>
+            </div>
+            <a href=""><div class="nav-cart border">
+                <i class="fa-solid fa-cart-shopping"></i>
+                Cart
+            </div></a>
+        </div>
+        <div class="panel">
+            <div class="panel-All">
+             <a href=""><i class="fa-solid fa-bars"></i>
+             All</a>        
+            </div>
+            <div class="panel-ops">
+                <a href=""><p>Today's Deals </p></a>
+                <a href=""><P>Customer Service</P></a>
+                <a href=""><p>Registry</p></a>
+                <a href=""><p>Gift Cards</p></a>
+                <a href=""><p> Sell</p></a>
+            </div>
+            <div class="panel-deals">
+                <a href="">Shop deals in Electronics</a>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="hero">
+            <div class="hero-msg">
+                <p>You are on amazon.com. You can also shop on Amazon pakistan for millions of products with fast local delivery. <a href="https://www.amazon.com/?&tag=googleglobalp-20&ref=pd_sl_7nnedyywlk_e&adgrpid=159651196451&hvpone=&hvptwo=&hvadid=675114638367&hvpos=&hvnetw=g&hvrand=9494870943203101371&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061357&hvtargid=kwd-10573980&hydadcr=2246_13468515" target="_main">Click here to go to amazon.in</a></p>
+            </div>
+        </div>
+        <div class="shop-sec">
+            <div class="box1 box">
+                <div class="box-content">
+                    <h2>Cloths</h2>
+                    <div class="box-img"  style="background-image: url('https://images.unsplash.com/photo-1649433911119-7cf48b3e8f50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2xvdGhzfGVufDB8fDB8fHww');"></div>
+                    <a class="box-a" href=""><p>See More</p></a>
+                </div>
+            </div>
+            <div class="box2 box">
+                <div class="box-content">
+                    <h2>Furniture</h2>
+                    <div class="box-img" id="cloth" style="background-image:url('https://images.unsplash.com/photo-1550226891-ef816aed4a98?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fGZ1cm5pdHVyZXxlbnwwfHwwfHx8MA%3D%3D');"></div>
+                    <a class="box-a" href=""><p>See More</p></a>
+                </div>
+            </div>
+            <div class="box3 box">
+                <div class="box-content">
+                    <h2>Health & personal Care</h2>
+                    <div class="box-img" style="background-image:url('https://images.unsplash.com/photo-1601612628452-9e99ced43524?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');"></div>
+                    <a class="box-a" href=""><p>See More</p></a>
+                </div>
+            </div>
+            <div class="box4 box">
+                <div class="box-content">
+                    <h2>Devices</h2>
+                    <div class="box-img"style="background-image:url('https://images.unsplash.com/photo-1587258314599-cb5b75d86a5e?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D ');"></div>
+                    <a class="box-a" href=""><p>See More</p></a>
+                </div>
+            </div>
+            <div class="box5 box">
+                <div class="box-content">
+                    <h2>Sports</h2>
+                    <div class="box-img"style="background-image:url('https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTR8fFNwb3J0fGVufDB8fDB8fHww');"></div>
+                    <a class="box-a" href=""><p>See More</p></a>
+                </div>
+            </div>
+            <div class="box6 box">
+                <div class="box-content">
+                    <h2>Pet Care</h2>
+                    <div class="box-img"style="background-image:url('https://images.unsplash.com/photo-1692245750698-2f6ee15bf727?q=80&w=1416&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');"></div>
+                    <a class="box-a" href=""><p>See More</p></a>
+                </div>
+            </div>
+            <div class="box7 box">
+                <div class="box-content">
+                    <h2>New Arrival in Toys</h2>
+                    <div class="box-img"style="background-image:url('https://images.unsplash.com/photo-1713950945892-50d86256d428?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');"></div>
+                    <a class="box-a" href=""><p>See More</p></a>
+                </div>
+            </div>
+            <div class="box8 box">
+                <div class="box-content">
+                    <h2>Discover Fashion Trend</h2> 
+                    <div class="box-img"style="background-image:url('https://images.unsplash.com/photo-1598363777525-4818477ba9f9?q=80&w=1426&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');"></div>
+                    <a class="box-a" href=""><p>See More</p></a>
+                </div>
+            </div>
+            <div class="box9 box">
+                <div class="box-content">
+                    <h2>Get your game on</h2> 
+                    <div class="box-img"style="background-image:url('https://images.unsplash.com/photo-1606305321490-0c05711a8fb6?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');"></div>
+                    <a class="box-a" href=""><p>See More</p></a>
+                </div>
+            </div>
+
+            <div class="box10 box">
+                <div class="box-content">
+                    <h2>Fantastic Finds for Home</h2> 
+                    <div class="box-img"style="background-image:url('https://images.unsplash.com/photo-1658677377617-d7738015097e?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');"></div>
+                    <a class="box-a" href=""><p>See More</p></a>
+                </div>
+            </div>
+
+            <div class="box11 box">
+                <div class="box-content">
+                    <h2>Travel Essentials</h2> 
+                    <div class="box-img"style="background-image:url('https://images.unsplash.com/photo-1551709270-acfb7c3988b5?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');"></div>
+                    <a class="box-a" href=""><p>See More</p></a>
+                </div>
+            </div>
+
+            <div class="box12 box">
+                <div class="box-content">
+                    <h2>Most-loved watches</h2> 
+                    <div class="box-img"style="background-image:url('https://images.unsplash.com/photo-1659251378407-bc76240d281a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');"></div>
+                    <a class="box-a" href=""><p>See More</p></a>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="foot-panel1">
+            <a href="">Back to top</a>
+        </div>
+        <div class="foot-panel2">
+            <ul>
+              <p>Get to know Us</p>
+              <a href="">Careers</a>
+              <a href="">Blog</a>
+              <a href="">About Amazon</a>
+              <a href="">Investor Relations</a>
+              <a href="">Amazon Devices</a>
+              <a href="">Amazon Science</a>
+            </ul>
+            <ul>
+              <p>Get to know Us</p>
+              <a href="">Careers</a>
+              <a href="">Blog</a>
+              <a href="">About Amazon</a>
+              <a href="">Investor Relations</a>
+              <a href="">Amazon Devices</a>
+              <a href="">Amazon Science</a>
+            </ul>
+            <ul>
+              <p>Get to know Us</p>
+              <a href="">Careers</a>
+              <a href="">Blog</a>
+              <a href="">About Amazon</a>
+              <a href="">Investor Relations</a>
+              <a href="">Amazon Devices</a>
+              <a href="">Amazon Science</a>
+            </ul>
+            <ul>
+              <p>Get to know Us</p>
+              <a href="">Careers</a>
+              <a href="">Blog</a>
+              <a href="">About Amazon</a>
+              <a href="">Investor Relations</a>
+              <a href="">Amazon Devices</a>
+              <a href="">Amazon Science</a>
+            </ul>
+            <ul>
+              <p>Get to know Us</p>
+              <a href="">Careers</a>
+              <a href="">Blog</a>
+              <a href="">About Amazon</a>
+              <a href="">Investor Relations</a>
+              <a href="">Amazon Devices</a>
+              <a href="">Amazon Science</a>
+            </ul>
+        </div>
+        <div class="foot-panel3">
+            <a href="https://www.amazon.com/?&tag=googleglobalp-20&ref=pd_sl_7nnedyywlk_e&adgrpid=159651196451&hvpone=&hvptwo=&hvadid=675114638367&hvpos=&hvnetw=g&hvrand=9494870943203101371&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061357&hvtargid=kwd-10573980&hydadcr=2246_13468515" target="_main"><div class="logo-end"></div></a>
+        </div>
+        <div class="foot-panel4">
+            <div class="pages">
+                <a href="">Conditions of use</a>
+                <a href="">Privacy notice</a>
+            </div>
+            <div class="copyright">
+                <a href="">© 1996-2025, Amazon.com, Inc. or its affiliates</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
